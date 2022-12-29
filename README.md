@@ -1,3 +1,1 @@
 - Hi, I’m Sly Enache!
-- I’m interested in engineering, math, science, and skiing!
-- I’m currently learning a Full Stack Development with MERN !
